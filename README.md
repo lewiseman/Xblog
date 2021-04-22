@@ -5,7 +5,7 @@ This is a simple blogging application in Django
 It is a simple blog app for uploading a blog content and its image and accessing them, deleting and so on ...
 
 # screenshots
-| ![Image](https://github.com/lewiseman/Xblog/tree/master/static/images/screenshots/screen-six.png) |
+| ![Image](https://raw.githubusercontent.com/lewiseman/Xblog/master/static/images/screenshots/screen-six.png) |
 | ![Image](https://github.com/lewiseman/Xblog/tree/master/static/images/screenshots/screen-four.png) |
 | ![Image](https://github.com/lewiseman/Xblog/tree/master/static/images/screenshots/screen-five.png) |
 | ![Image](https://github.com/lewiseman/Xblog/tree/master/static/images/screenshots/screen-three.png) |
